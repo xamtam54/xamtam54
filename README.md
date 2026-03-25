@@ -1,16 +1,42 @@
-## Hi there 👋
+# Carlos Salazar
 
-<!--
-**xamtam54/xamtam54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET Backend Developer focused on building scalable, maintainable systems using modern software architecture and best practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Computer and systems engineer with practical experience in developing RESTful APIs using ASP.NET Core. Strong foundation in clean architecture and domain-driven design (DDD), with practical experience integrating backend systems with IoT devices and data pipelines.
+
+---
+
+## Technical Skills
+
+**Backend Development**
+- C#, ASP.NET Core, Entity Framework Core, LINQ
+- RESTful API design and implementation
+- JWT authentication and role-based authorization
+
+**Architecture & Design**
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Object-Oriented Programming (OOP)
+- SOLID principles
+
+**Databases**
+- SQL Server, MySQL
+- Data modeling, migrations, and seeding
+
+**Tools & DevOps**
+- Docker
+- Git & GitHub
+- .NET CLI
+- Command line environments
+
+**Additional Technologies**
+- PHP (Laravel)
+- Unity (C#)
+- SSIS (ETL processes)
+- ESP32 integration (IoT systems)
+
+---

@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Carlos%20Salazar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Backend%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Building%20Scalable%20Backend%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=.NET%20•%20Clean%20Architecture%20•%20APIs&descAlignY=60&descAlign=50" />
 </p>
-
 Junior .NET Backend Developer focused on building scalable, maintainable systems using modern software architecture and best practices.
 
 ---

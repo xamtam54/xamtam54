@@ -1,16 +1,25 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Building%20Scalable%20Backend%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=.NET%20•%20Clean%20Architecture%20•%20APIs&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=243B55&height=200&section=header&text=Software%20Development&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DOTNET%20-%20SQL%20-%20ETL%20-%20Automation&descAlignY=60&descAlign=50" width="100%" />
 </p>
-Junior .NET Backend Developer focused on building scalable, maintainable systems using modern software architecture and best practices.
+
+<h1 align="center">Systems and Computer Engineer</h1>
+
+<p align="center">
+  Software Development • Database Management • Data Engineering • Process Automation
+</p>
 
 ---
 
 ## About Me
 
-Computer and Systems Engineer with hands-on experience developing RESTful APIs using ASP.NET Core. Strong foundation in Clean Architecture and Domain-Driven Design (DDD), with experience integrating backend systems with IoT devices and data pipelines.
+Systems and Computer Engineer, focused on software development, database management, data analysis, and process automation.
 
-Focused on building robust backend solutions, writing clean and maintainable code, and continuously improving in modern software development practices.
+Experienced in designing and managing relational databases using SQL Server and MySQL, developing ETL processes with SQL Server Integration Services (SSIS), and automating recurring tasks to support historical data analysis, information management, and operational efficiency.
+
+My technical background also includes backend development with ASP.NET Core, RESTful API development, and software architecture principles such as Clean Architecture and Domain-Driven Design (DDD).
+
+I am passionate about building reliable software solutions, transforming data into actionable insights, and improving business processes through technology.
 
 ---
 
@@ -47,12 +56,14 @@ Focused on building robust backend solutions, writing clean and maintainable cod
 
 ---
 
-## Core Focus
+## Areas of Interest
 
-- Designing scalable and maintainable backend architectures  
-- Building secure RESTful APIs  
-- Applying Clean Architecture and DDD in real-world scenarios  
-- Integrating backend systems with IoT and data pipelines  
+- Backend Development and API Design
+- Database Architecture and Optimization
+- Data Engineering and ETL Pipelines
+- Process Automation and Continuous Improvement
+- Software Architecture and Maintainable Systems
+- Data-Driven Decision Making
 
 ---
 
